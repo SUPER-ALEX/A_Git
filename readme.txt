@@ -3,4 +3,6 @@
 	Git is a free software distributed under the GPL
 	Git has mutable index called stage
 	Git trackes changes
-	Git is very strong 
+	Git is very strong
+	di yi ci xiugai
+	di er ci xiugai 
